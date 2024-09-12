@@ -1,0 +1,4 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://bishan-portfolio.vercel.app/sitemap.xml
